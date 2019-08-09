@@ -6,6 +6,7 @@
 * [C](#c)
 * [C Sharp](#c-sharp)
 * [C++](#c++)
+* [Database](#database)
 * [Delphi](#delphi)
 * [Embedded](#embedded)
   * [Arduino](#arduino)
@@ -61,6 +62,11 @@
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) (F. Camuso)
 
 
+### Database
+
+* [Basi di dati](https://www.youtube.com/playlist?list=PLgaOrAQwrg9JZs6dbDolNlShHFgpJSChj) (M. De Ghetto)
+
+
 ### Delphi
 
 * [Videocorso Delphi/Lazarus](https://www.youtube.com/watch?v=JxE1nUqriV0&list=PLF75FB30719A09FA2) (F. Camuso)
@@ -70,6 +76,7 @@
 
 #### Arduino
 
+* [Arduino Cookbook - Corso di Arduino in 150 video](https://www.youtube.com/playlist?list=PL9_01HM23dGEDNNfR6BtlDWD8DDoAcLOT) (P. Aliverti)
 * [Corso Arduino 2014](https://www.youtube.com/watch?v=WuqS4C4u42E&list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) (POuLpolimi Politecnico di Milano)
 
 
@@ -145,6 +152,9 @@
 
 
 ### Strumenti di sviluppo
+
+* [Visual Studio 2019](https://www.youtube.com/playlist?list=PLgaOrAQwrg9J04dWnY-FF4SXUFt-TEQkE) (Mario De Ghetto)
+
 
 #### Git
 

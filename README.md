@@ -60,7 +60,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 + [Finnish](/free-courses-fi.md)
 + [German](/free-courses-de.md)
 + [Italian](/free-courses-it.md)
++ [Korean](/free-courses-ko.md)
 + [Polish](/free-courses-pl.md)
++ [Portuguese (Brazil)](/free-courses-pt_BR.md)
 + [Russian](/free-courses-ru.md)
 + [Spanish](/free-courses-es.md)
 + [Vietnamese](/free-courses-vi.md)
@@ -89,4 +91,4 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](/free-programming-playgrounds.md)
 
 ## License
-Each file included in this repository is licensed under the [CC BY License](/LICENSE.md).
+Each file included in this repository is licensed under the [CC BY License](/LICENSE).
